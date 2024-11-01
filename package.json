@@ -1,0 +1,31 @@
+{
+  "name": "natours-api",
+  "version": "1.0.0",
+  "description": "natours api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsmailSarwari/natours-api.git"
+  },
+  "keywords": [
+    "natours",
+    "api"
+  ],
+  "author": "Esmail Sarwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsmailSarwari/natours-api/issues"
+  },
+  "homepage": "https://github.com/EsmailSarwari/natours-api#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
